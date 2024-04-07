@@ -1,2 +1,2 @@
 # ChloeRT-Lua
-A port of ChloeRT's Luau Decompilation/Script Dumping features to a Roblox Lua script
+ChloeRT Lua is a port of ChloeRT's LuaU reversing features to Lua. This should work pretty well with certain Roblox executors like Krampus/RoExec (https://krampus.gg).
